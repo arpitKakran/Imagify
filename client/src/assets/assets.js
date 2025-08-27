@@ -57,25 +57,25 @@ export const stepsData = [
 
 export const testimonialsData = [
     {
-        image:profile_img_1,
-        name:'Donald Jackman',
+        image:review2,
+        name:'Ashish Gautam',
+        role:'Full Stack Developer',
+        stars:5,
+        text:`I've been using this site for nearly two years, primarily for my projects, and it has been incredibly user-friendly, making my work much easier.`
+    },
+    {
+        image:review3,
+        name:'Kushgar Sharma',
+        role:'ML Engineer',
+        stars:4,
+        text:`I have always struggled to find some stock images for my projects and I recently found this tool and its been a life saver since then`
+    },
+    {
+        image:review1,
+        name:'Khushi Chahal',
         role:'Graphic Designer',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
-    },
-    {
-        image:profile_img_2,
-        name:'Richard Nelson',
-        role:'Content Creator',
-        stars:4,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
-    },
-    {
-        image:profile_img_1,
-        name:'Donald Jackman',
-        role:' Graphic Designer',
-        stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`Finding inspiration in the field of graphic designing can be really frustating sometimes, this tool allows me to put my words into a real imaginable thing.`
     },
 ]
 
