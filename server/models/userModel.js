@@ -19,7 +19,7 @@ const userSchema = new mongoose.Schema({
 
     creditBal : {
         type: Number,
-        default: 5
+        default: 3
     }
 })
 
