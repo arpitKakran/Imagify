@@ -68,7 +68,7 @@ export const testimonialsData = [
         name:'Kushagar Sharma',
         role:'ML Engineer',
         stars:4,
-        text:`I have always struggled to find some stock images for my projects and I recently found this tool and its been a life saver since then`
+        text:`I have always struggled to find some stock images for my projects and college presentations I recently found this tool and its been a life saver since then`
     },
     {
         image:profile_img_1,
