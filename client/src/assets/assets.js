@@ -7,8 +7,9 @@ import star_icon from './star_icon.svg'
 import rating_star from './rating_star.svg'
 import sample_img_1 from './sample_img_1.png'
 import sample_img_2 from './sample_img_2.png'
-import profile_img_1 from './profile_img_1.png'
-import profile_img_2 from './profile_img_2.png'
+import review_1 from './review_1.png'
+import review_2 from './review_2.png'
+import review_3 from './review_3.png'
 import step_icon_1 from './step_icon_1.svg'
 import step_icon_2 from './step_icon_2.svg'
 import step_icon_3 from './step_icon_3.svg'
@@ -57,25 +58,27 @@ export const stepsData = [
 
 export const testimonialsData = [
     {
-        image:profile_img_2,
-        name:'Ashish Gautam',
-        role:'Full Stack Developer',
-        stars:5,
-        text:`I've been using this site for nearly two years, primarily for my projects, and it has been incredibly user-friendly, making my work much easier.`
-    },
-    {
-        image:profile_img_1,
-        name:'Kushagar Sharma',
-        role:'ML Engineer',
-        stars:4,
-        text:`I have always struggled to find some stock images for my projects and college presentations I recently found this tool and its been a life saver since then`
-    },
-    {
-        image:profile_img_1,
+        image:review_1,
         name:'Khushi Chahal',
         role:'Graphic Designer',
         stars:5,
         text:`Finding inspiration in the field of graphic designing can be really frustating sometimes, this tool allows me to put my words into a real imaginable thing.`
+    },
+
+    {
+        image:review_2,
+        name:'Ashish Gautam',
+        role:'Full Stack Developer',
+        stars:4,
+        text:`I've been using this site for nearly two years, primarily for my projects, and it has been incredibly user-friendly, making my work much easier.`
+    },
+
+    {
+        image:review_3,
+        name:'Kushagar Sharma',
+        role:'ML Engineer',
+        stars:5,
+        text:`I have always struggled to find some stock images for my projects and college presentations I recently found this tool and its been a life saver since then`
     },
 ]
 
